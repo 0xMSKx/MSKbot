@@ -1,13 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MSK",
+    "username": "xMSKx",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "2xMSKx-CMM4.aternos.me
-",
+    "ip": "2xMSKx-CMM4.aternos.me",
     "port": 38430,
     "version": "",
     "try-creative": false
@@ -28,15 +27,58 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 1800,
       "messages": [
         "Responsiblities demands sacrifices",
-        "You won’t be able to tell if everything is going to be totally haywire",
-        "Suckin’ at something is the first step to being sorta good at something.” (Jake the Dog)"
-        "Everything small is just a smaller version of something big.” (Finn the Human)" 
-        "To live life, you need problems. If you get everything you want the minute you want it, what’s the point of living?” (Jake the Dog)" 
+    "You won’t be able to tell if everything is going to be totally haywire",
+    "Suckin’ at something is the first step to being sorta good at something.",
+    "Everything small is just a smaller version of something big.",
+    "To live life, you need problems. If you get everything you want the minute you want it, what’s the point of living?",
+    "Mathematical!",
+    "Algebraic!",
+    "What time is it? Adventure Time!",
+    "Homies help homies. ALWAYS!",
+    "Bad biscuits make the baker broke, bro.",
+    "Oh my glob!",
+    "Bacon pancakes!",
+    "Finn the Human!",
+    "Jake the Dog!",
+    "BMO!",
+    "Princess Bubblegum!",
+    "The Ice King!",
+    "Marceline!",
+    "Teen Titans!",
+    "Titans, go!",
+    "Boo-yah!",
+    "Azarath Metrion Zinthos!",
+    "Robin!",
+    "Cyborg!",
+    "Raven!",
+    "Starfire!",
+    "Beast Boy!",
+    "Batman!",
+    "I am Batman.",
+    "I am vengeance.",
+    "I am the night.",
+    "Holy ____!",
+    "Gotham City!",
+    "The Batcave!",
+    "Robin, you're going to have to trust me.",
+    "Why so serious?",
+    "To the Batmobile!",
+    "Batman and Robin!",
+    "The Joker!",
+    "Harley Quinn!",
+    "Poison Ivy!",
+    "The Riddler!",
+    "Gotham needs Batman.",
+    "Titans together!",
+    "Adventure awaits!",
+    "Mathematical adventure!",
+    "Boo-yah, dude!",
+    "Time for adventure!"
       ]
     },
     "chat-log": true,
