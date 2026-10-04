@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MSK",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "2xMSKx-CMM4.aternos.me
+",
+    "port": 38430,
     "version": "",
     "try-creative": false
   },
@@ -27,13 +28,15 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Responsiblities demands sacrifices",
+        "You won’t be able to tell if everything is going to be totally haywire",
+        "Suckin’ at something is the first step to being sorta good at something.” (Jake the Dog)"
+        "Everything small is just a smaller version of something big.” (Finn the Human)" 
+        "To live life, you need problems. If you get everything you want the minute you want it, what’s the point of living?” (Jake the Dog)" 
       ]
     },
     "chat-log": true,
